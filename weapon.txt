@@ -1,0 +1,7 @@
+Staff
+Sword
+Knife
+Bow
+Arrows
+Dagger
+Armor

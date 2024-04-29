@@ -1,0 +1,22 @@
+Staff
+Fishing Rod
+Wand
+Book
+Potion
+Sack
+Knife
+Bow
+Arrows
+Chest
+Dagger
+Gloves
+Armor
+Helmet
+Boots
+Necklace
+Charm
+Drink
+Bread
+Meat
+Venison
+Jerky

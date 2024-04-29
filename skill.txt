@@ -1,0 +1,51 @@
+0
+Battle Cry
+A basic skill that draws aggro to yourself.
+
+1
+Heavy Strike
+A hard-hitting strike with a blade/blunt weapon.
+
+2
+Shield Bash
+A charge-based attack with shield that can interrupt enemies.
+
+3
+Mana Charge
+A channeling skill that recovers mana.
+
+4
+Mana Burst
+Attack magic that launches concentrated mana.
+
+5
+Firebolt
+Launches a small fire projectile towards target.
+
+6
+Claw Trap
+Places a trap that snares the first enemy that walks over it.
+
+7
+Triple Shot
+Shoots three arrows in quick succession.
+
+8
+Piercing Shot
+Shoots an arrow that pierces through up to 5 targets.
+
+9
+Heal
+Recover health to allies in a small radius.
+
+10
+Cure
+Removes status ailments from allies in a small radius (except death).
+
+11
+Revive
+Revives a single ally to 50% of their max health.
+
+12
+Fireball
+A Focused flame is shot forwards.
